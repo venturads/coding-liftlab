@@ -1,0 +1,17 @@
+/*
+  =require twitter-bootstrap-static/bootstrap
+
+  Use Font Awesome icons (default)
+  To use Glyphicons sprites instead of Font Awesome, replace with "require twitter-bootstrap-static/sprites"
+  =require twitter-bootstrap-static/fontawesome
+  */
+  
+  #vdesign:hover{
+    
+    /* Rotate div */
+    -ms-transform: rotate(-7deg); /* IE 9 */
+    -webkit-transform: rotate(-7deg); /* Chrome, Safari, Opera */
+    transform: rotate(-7deg);
+  }
+  
+  
